@@ -1,0 +1,14 @@
+C:\Users\semih\Documents\calculatoe3\bin\Debug\net9.0\calculatoe3.exe
+C:\Users\semih\Documents\calculatoe3\bin\Debug\net9.0\calculatoe3.deps.json
+C:\Users\semih\Documents\calculatoe3\bin\Debug\net9.0\calculatoe3.runtimeconfig.json
+C:\Users\semih\Documents\calculatoe3\bin\Debug\net9.0\calculatoe3.dll
+C:\Users\semih\Documents\calculatoe3\bin\Debug\net9.0\calculatoe3.pdb
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.AssemblyInfoInputs.cache
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.AssemblyInfo.cs
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.csproj.CoreCompileInputs.cache
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.dll
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\refint\calculatoe3.dll
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.pdb
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\calculatoe3.genruntimeconfig.cache
+C:\Users\semih\Documents\calculatoe3\obj\Debug\net9.0\ref\calculatoe3.dll
