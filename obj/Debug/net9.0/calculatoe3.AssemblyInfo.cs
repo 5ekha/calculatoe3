@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculatoe3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ed2450e2e68450fab6cd0dfb0893844e3e27a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e6c2630193537f9a83d3130383b618029786f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculatoe3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculatoe3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
